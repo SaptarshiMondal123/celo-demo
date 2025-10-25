@@ -1,0 +1,81 @@
+# Ignore environment files containing secrets
+.env
+.env.*
+.env.local
+.envrc
+
+# Secret and key files
+*.pem
+*.key
+*.p12
+*.jks
+id_rsa
+id_rsa.pub
+private_key*
+secret*
+
+# AWS / cloud credentials
+.aws/credentials
+.azure/*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+venv.bak/
+.venv/
+pip-wheel-metadata/
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.coverage
+coverage.xml
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# VS Code
+.vscode/
+.history/
+
+# JetBrains
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Hardhat / Solidity local cache/build (optional — keep if you want to ignore local build artifacts)
+/Solidity/cache/
+/Solidity/artifacts/
+/Solidity/node_modules/
+
+# Docker
+*.log
+docker-compose.override.yml
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+
+# Misc
+.env.*.local
+secrets.json
+secret-*.json
+*.secret
+
+# Keep this file itself
+!.gitignore
