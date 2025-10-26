@@ -1,8 +1,4 @@
-# 🌌 EchoDAO
-
-<div align="center">
-  <img src="frontend/public/assets/EchoDao_Logo.png" alt="EchoDAO Logo" width="200"/>
-</div>
+# <img src="frontend/public/assets/EchoDao_Logo.png" alt="EchoDAO Logo" width="50" style="vertical-align: middle;"/> EchoDAO
 
 > **Decentralized Governance Powered by Blockchain, AI, and Community**
 
