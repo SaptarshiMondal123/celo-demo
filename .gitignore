@@ -77,5 +77,11 @@ secrets.json
 secret-*.json
 *.secret
 
+# Documentation files (accidentally committed)
+API_QUICK_REFERENCE.md
+ENDPOINT_VERIFICATION.md
+INTEGRATION_COMPLETE.md
+SETUP_GUIDE.md
+
 # Keep this file itself
 !.gitignore
