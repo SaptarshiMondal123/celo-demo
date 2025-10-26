@@ -357,6 +357,11 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - **Documentation**: See `/docs` folder
 - **Issues**: [GitHub Issues](https://github.com/SaptarshiMondal123/celo-demo/issues)
 
+## Team Members
+- Saptarshi Mondal
+- Sekh Yajuddin
+- Soumyadeep Sarkar
+
 ---
 
 ## 🚀 Roadmap
