@@ -1,5 +1,9 @@
 # 🌌 EchoDAO
 
+<div align="center">
+  <img src="frontend/public/assets/EchoDao_Logo.png" alt="EchoDAO Logo" width="200"/>
+</div>
+
 > **Decentralized Governance Powered by Blockchain, AI, and Community**
 
 A revolutionary DAO platform built on Celo blockchain that combines on-chain governance, AI-powered content verification, and decentralized storage to enable transparent, democratic decision-making.
